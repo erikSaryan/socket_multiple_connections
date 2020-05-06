@@ -1,4 +1,4 @@
-Socket multiple connections
+Socket multiple connections.
 This example is intended for socket multiple connections
 
 First you need to start the server, to do this, run server.py․
